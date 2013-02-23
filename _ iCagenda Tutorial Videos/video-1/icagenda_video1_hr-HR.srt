@@ -1,0 +1,155 @@
+1
+00:00:30,425 --> 00:00:38,631
+Instaliraj icagenda 2.0
+
+2
+00:00:52,608 --> 00:00:58,013
+Verzija koju ste instalirali
+
+3
+00:00:59,395 --> 00:01:07,475
+Konfiguracija modula kalendara
+
+4
+00:01:10,518 --> 00:01:24,932
+ODaberite poziciju za modul iCcalendar
+
+5
+00:01:28,178 --> 00:01:35,184
+Objavi modul
+
+6
+00:01:36,999 --> 00:01:41,349
+Dodjeljivanje modula za stranice
+
+7
+00:01:49,362 --> 00:01:54,368
+Odaberi 'Lijevo' za prikaz uputa lijevo od modula,
+'Desno' za prikaz uputa desno od modula,
+ili odaberite ' Sredina stranice' za prikaz uputa na sredini stranice
+
+8
+00:01:55,113 --> 00:01:59,943
+također odredite da li će se prikazivati na vrhu ili dnu, ukoliko ste odabrani sredinu stranice
+
+9
+00:02:01,029 --> 00:02:04,179
+Odaberite da li će se ulute prikazati prelaskom miša
+ ili klikom miša na određeni datum u kalendaru
+
+10
+00:02:04,937 --> 00:02:14,135
+Navedite format datuma, u ulutama
+
+11
+00:02:17,093 --> 00:02:24,843
+Sada odaberite predložak  (dizajn našeg kalendara)
+Uključena su dva predloška, ali možete kreirati i instalirati i ostale.
+
+12
+00:02:27,257 --> 00:02:31,659
+Odaberi prvi dan u tjednu
+Nedjelja ili ponedjeljak
+
+13
+00:02:41,377 --> 00:02:51,750
+Možemo navesti koja kategorija se odnosi na kalendar.
+Trenutno nismo napravili niti jednu kategoriju.
+
+14
+00:02:56,206 --> 00:02:59,660
+Spremite i zatvorite upravitelj modula
+
+15
+00:03:03,081 --> 00:03:10,015
+Pogledajte upravitelj modula kalendara!
+
+16
+00:03:11,981 --> 00:03:18,170
+Nešto nije postavljeno!
+
+17
+00:03:20,952 --> 00:03:27,403
+Ne brinite! Samo trebate napraviti u izborniku sa poveznicom 
+na iCagenda.
+
+18
+00:03:30,159 --> 00:03:34,765
+U upravitelju izbornika, klikni na 'Novo'
+
+19
+00:03:37,370 --> 00:03:45,464
+Odaberi iCagenda > Lista događanja,
+u vrsti stavka izbornika
+
+20
+00:03:54,270 --> 00:04:01,620
+Dodaj naslov za novi link
+
+21
+00:04:03,634 --> 00:04:14,567
+Postavite koji će se događaji prikazivati,
+svi događaji, budući ili prošli događaji
+
+22
+00:04:17,301 --> 00:04:21,219
+Možete odabrati prikaz samo jedne kategorije
+
+23
+00:04:22,321 --> 00:04:25,970
+?odaberite redosljed liste
+
+24
+00:04:31,136 --> 00:04:35,662
+Odaberite predložak za vaša događanja
+
+25
+00:04:36,788 --> 00:04:38,954
+?koliko znakova u kratkom opisu!
+
+26
+00:04:40,088 --> 00:04:42,198
+?broj događaja po stranici
+
+27
+00:04:43,167 --> 00:04:53,800
+?format datuma u listi događaja i detalji
+
+28
+00:04:56,090 --> 00:04:59,672
+možete dodati osobni razdjelnik za datume s brojevima?
+
+29
+00:05:00,000 --> 00:05:02,500
+Širina GoogleMap.
+(korisno je za neke predloške postaviti 99%)
+
+30
+00:05:03,000 --> 00:05:05,968
+Visina GoogleMap.
+(iu pixelima)
+
+31
+00:05:06,184 --> 00:05:09,838
+Spremi i zatvori
+
+32
+00:05:11,851 --> 00:05:19,927
+Ponovno učitaj stranicu...
+
+33
+00:05:22,488 --> 00:05:27,000
+Oslično! Info poruka je nestala.
+
+34
+00:05:28,850 --> 00:05:32,064
+Klikni na stavku izbornika...
+
+35
+00:05:33,734 --> 00:05:36,500
+Stranica je još prazna, zato trebate dodati svoj događaj.
+
+36
+00:05:37,000 --> 00:05:40,100
+Upute za dodavanje događanja u sljedećem videu, dio2!
+

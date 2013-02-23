@@ -1,0 +1,152 @@
+1
+00:00:30,425 --> 00:00:38,631
+Installation von icagenda 2.0
+
+2
+00:00:52,608 --> 00:00:58,013
+Hier sehen wir die installierte Versions-Nummer.
+
+3
+00:00:59,395 --> 00:01:07,475
+Konfiguration des Kalender-Moduls
+
+4
+00:01:10,518 --> 00:01:24,932
+Wir wählen die Position des Kalender-Moduls.
+
+5
+00:01:28,178 --> 00:01:35,184
+Kalender-Modul freigeben
+
+6
+00:01:36,999 --> 00:01:41,349
+Wir weisen dem Kalender-Modul eine Seite zu.
+
+7
+00:01:49,362 --> 00:01:54,368
+Wähle Links zur Anzeige des Tooltipps auf der linken Seite des Moduls, 
+Rechts zur Anzeige des Tooltipps auf der rechten Seite des Moduls, 
+oder wähle Mitte zur zentrierten Anzeige.
+
+8
+00:01:55,113 --> 00:01:59,943
+Bei der Auswahl Mitte bitte auch noch die Position Oben oder Unten auswählen.
+
+9
+00:02:01,029 --> 00:02:04,179
+Jetzt noch auswählen, ob der Tool-Tipp durch Mouse-over
+oder bei Klick auf den Kalender-Eintrag angezeigt werden soll.
+
+10
+00:02:04,937 --> 00:02:14,135
+Wir wählen das gewünschte Datums-Format im Tool-Tipp.
+
+11
+00:02:17,093 --> 00:02:24,843
+Jetzt wählen wir ein Template (Design des Kalenders) aus.
+2 Theme packs sind bereits enthalten, aber man kann auch weitere erstellen und installieren.
+
+12
+00:02:27,257 --> 00:02:31,659
+Wir wählen den ersten Tag der Woche (Sonntag oder Montag).
+
+13
+00:02:41,377 --> 00:02:51,750
+Man kann dem Kalender auch eine Kategorie zuordnen.
+Im Moment haben wir aber noch keine Kategorie erstellt.
+
+14
+00:02:56,206 --> 00:02:59,660
+Speichern und schließen
+
+15
+00:03:03,081 --> 00:03:10,015
+Jetzt schauen wir uns das Kalender-Modul im Frontend an.
+
+16
+00:03:11,981 --> 00:03:18,170
+Wir sehen, es sind noch nicht alle notwendigen Parameter gesetzt!
+
+17
+00:03:20,952 --> 00:03:27,403
+Kein Problem! Wir müssen noch einen Menüpunkt erstellen, der mit iCagenda verbunden ist.
+
+18
+00:03:30,159 --> 00:03:34,765
+Dazu klicken wir im Menü-Manager auf 'Neu'.
+
+19
+00:03:37,370 --> 00:03:45,464
+Wählen als Menütyp iCagenda > Liste der Events.
+
+20
+00:03:54,270 --> 00:04:01,620
+Und vergeben einen Namen.
+
+21
+00:04:03,634 --> 00:04:14,567
+Wir wählen, welche Events wir anzeigen lassen wollen.
+Alle, in der Zukunft oder die in der Vergangenheit.
+
+22
+00:04:17,301 --> 00:04:21,219
+Bei den Kategorien können wir alle oder eine bestimmte anzeigen lassen.
+
+23
+00:04:22,321 --> 00:04:25,970
+Hier können wir bestimmen in welcher Reihenfolge die Events gezeigt werden sollen.
+
+24
+00:04:31,136 --> 00:04:35,662
+Wir wählen das Template.
+
+25
+00:04:36,788 --> 00:04:38,954
+Die maximale Anzahl von Buchstaben in der Vorschau.
+
+26
+00:04:40,088 --> 00:04:42,198
+Die Anzahl der Events auf einer Seite.
+
+27
+00:04:43,167 --> 00:04:53,800
+Das Datums-Format
+
+28
+00:04:56,090 --> 00:04:59,672
+Hier kann man ein eigenes Trennzeichen bei der numerischen Datums-Anzeige eingeben.
+
+29
+00:05:00,000 --> 00:05:02,500
+Die Breite für GoogleMaps.
+(bei manchen Templates ist 99% sinnvoll)
+
+30
+00:05:03,000 --> 00:05:05,968
+Die Höhe für GoogleMaps.
+(in pixel)
+
+31
+00:05:06,184 --> 00:05:09,838
+Speichern und schließen.
+
+32
+00:05:11,851 --> 00:05:19,927
+Jetzt die Seite erneut laden...
+
+33
+00:05:22,488 --> 00:05:27,000
+Super! Die rote Info-Nachricht ist verschwunden.
+
+34
+00:05:28,850 --> 00:05:32,064
+Wir klicken auf den Menüpunkt...
+
+35
+00:05:33,734 --> 00:05:36,500
+Wir sehen eine weiße Seite. Noch. Denn wir müssen ja erstmal ein Event anlegen.
+
+36
+00:05:37,000 --> 00:05:40,100
+Wie man das macht sehen wir im nächsten Video, part 2!
+

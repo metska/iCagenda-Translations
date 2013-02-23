@@ -1,0 +1,156 @@
+1
+00:00:30,425 --> 00:00:38,631
+Installatie icagenda 2.0
+
+2
+00:00:52,608 --> 00:00:58,013
+De geïnstalleerde versie
+
+3
+00:00:59,395 --> 00:01:07,475
+Configuratie van de calendar module
+
+4
+00:01:10,518 --> 00:01:24,932
+Selecteer de positie van de iCcalendar module
+
+5
+00:01:28,178 --> 00:01:35,184
+Publiceer de module
+
+6
+00:01:36,999 --> 00:01:41,349
+Toewijzen van de module aan pagina's
+
+7
+00:01:49,362 --> 00:01:54,368
+Kies 'Links' om de tooltip aan de linkerzijde van de module
+te tonen, 'Rechts' om deze aan de rechterzijde te tonen, of
+kies 'Midden van de pagina' om de tooltip gecentreerd te tonen.
+
+8
+00:01:55,113 --> 00:01:59,943
+Geef ook aan of deze bovenaan of onderaan het scherm moet
+worden getoond, als u voor 'Midden van de pagina' heeft gekozen.
+
+9
+00:02:01,029 --> 00:02:04,179
+Kies de manier waarop de tooltip moet verschijnen:
+Als u met de muis eroverheen gaat of door op een
+datum te klikken.
+
+10
+00:02:04,937 --> 00:02:14,135
+Geef de datumnotatie voor de tooltip aan.
+
+11
+00:02:17,093 --> 00:02:24,843
+Selecteer nu het sjabloon (het design) van de kalender.
+Er zijn standaard 2 themapakketten geleverd, maar u kunt
+deze ook zelf maken en installeren.
+
+12
+00:02:27,257 --> 00:02:31,659
+Kies de eerste dag van de week (zondag of maandag).
+
+13
+00:02:41,377 --> 00:02:51,750
+U kunt de kalender ook toewijzen aan een categorie.
+Standaard is geen categorie gekozen.
+
+14
+00:02:56,206 --> 00:02:59,660
+Opslaan en sluiten van Modulebeheer.
+
+15
+00:03:03,081 --> 00:03:10,015
+Bekijk de kalendermodule in het front-end.
+
+16
+00:03:11,981 --> 00:03:18,170
+Zoals u ziet ontbreken nog enige instellingen.
+
+17
+00:03:20,952 --> 00:03:27,403
+Geen nood! Er moet nog een menukeuze worden
+gekoppeld aan iCagenda.
+
+18
+00:03:30,159 --> 00:03:34,765
+Klik op 'Nieuw' in Menubeheer.
+
+19
+00:03:37,370 --> 00:03:45,464
+Kies iCagenda > Evenementenlijst in menutype.
+
+20
+00:03:54,270 --> 00:04:01,620
+Geef deze menukeuze een naam.
+
+21
+00:04:03,634 --> 00:04:14,567
+Geef aan welke evenementen u wilt tonen:
+alle, toekomstige of afgelopen evenementen.
+
+22
+00:04:17,301 --> 00:04:21,219
+U kunt één of meerdere categorieën kiezen.
+
+23
+00:04:22,321 --> 00:04:25,970
+Selecteer de sorteervolgorde van de lijst.
+
+24
+00:04:31,136 --> 00:04:35,662
+Kies het thema van de evenementenlijst.
+
+25
+00:04:36,788 --> 00:04:38,954
+Kies het aantal tekens van de korte omschrijving.
+
+26
+00:04:40,088 --> 00:04:42,198
+Kies het aantal evenementen per pagina.
+
+27
+00:04:43,167 --> 00:04:53,800
+Geef de datumnotatie van de evenementenlijst en de details.
+
+28
+00:04:56,090 --> 00:04:59,672
+Kies het datum-scheidingsteken.
+
+29
+00:05:00,000 --> 00:05:02,500
+Breedte van de Google Map (in pixels).
+(Bij de meeste sjablonen kunt u 99% ingeven)
+
+30
+00:05:03,000 --> 00:05:05,968
+Hoogte van de Google Map (in pixels).
+
+31
+00:05:06,184 --> 00:05:09,838
+Opslaan en sluiten
+
+32
+00:05:11,851 --> 00:05:19,927
+Herlaad de pagina.
+
+33
+00:05:22,488 --> 00:05:27,000
+Uitstekend! Het info-bericht is weg.
+
+34
+00:05:28,850 --> 00:05:32,064
+Klik op het menu-item.
+
+35
+00:05:33,734 --> 00:05:36,500
+Nog steeds een witte pagina, maar u moet nog
+evenementen toevoegen
+
+36
+00:05:37,000 --> 00:05:40,100
+Het toevoegen van evenementen ziet u in
+de volgende video, deel 2!

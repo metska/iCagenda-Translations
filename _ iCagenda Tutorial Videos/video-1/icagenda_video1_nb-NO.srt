@@ -1,0 +1,188 @@
+1
+00:00:30,425 --> 00:00:38,631
+Installere icagenda 2.0
+
+
+2
+00:00:52,608 --> 00:00:58,013
+Versjonen du har installert
+
+
+3
+00:00:59,395 --> 00:01:07,475
+Konfigurasjon av kalenderen modulen
+
+
+4
+00:01:10,518 --> 00:01:24,932
+Velg posisjonen til iCalendar modulen 
+
+
+5
+00:01:28,178 --> 00:01:35,184
+Publiser modulen
+
+
+6
+00:01:36,999 --> 00:01:41,349
+Modul tilordning til sider
+
+
+7
+00:01:49,362 --> 00:01:54,368
+Velg 'Venstre' for å vise verktøytipset til venstre av modulen,
+'Høyre' for å vise verktøytipset til høyre av modulen,
+eller velg 'midten av siden ' for å vise tipset horisontalt i midten av siden
+
+
+8
+00:01:55,113 --> 00:01:59,943
+angi også om du ønsker å vise på toppen eller bunnen,
+om midten av siden er valgt
+
+
+9
+00:02:01,029 --> 00:02:04,179
+Velg om verktøytipset skal åpnes på musen over
+eller ved å klikke på datoen i kalenderen modulen
+
+
+10
+00:02:04,937 --> 00:02:14,135
+Angi dato format, i verktøytipset
+
+
+11
+00:02:17,093 --> 00:02:24,843
+Nå velger du malen (design av vår kalender)
+Det er to temapakker inkludert, men du kan lage og installere andre.
+
+
+12
+00:02:27,257 --> 00:02:31,659
+Velg den første dagen i uken,
+Søndag eller Mandag
+
+13
+00:02:41,377 --> 00:02:51,750
+Vi kan angi hvilken kategori som refererer til kalenderen.
+Foreløpig har vi ikke opprettet noen kategori.
+
+
+14
+00:02:56,206 --> 00:02:59,660
+Lagre og lukk modul styringen
+
+
+15
+00:03:03,081 --> 00:03:10,015
+Ta en titt på kalender modulen!
+
+
+16
+00:03:11,981 --> 00:03:18,170
+Det er noe som ikke er satt!
+
+
+17
+00:03:20,952 --> 00:03:27,403
+Ikke fortvil! Du trenger bare å lage en meny
+for å være koblet til iCagenda.
+
+
+18
+00:03:30,159 --> 00:03:34,765
+I meny manager, klikk på 'Ny'
+
+
+19
+00:03:37,370 --> 00:03:45,464
+Velg iCagenda> liste over hendelser, i menypunktet
+
+
+20
+00:03:54,270 --> 00:04:01,620
+Legg til en tittel for den nye menylenken
+
+
+21
+00:04:03,634 --> 00:04:14,567
+Angi hvilke hendelser du vil vise,
+alle hendelser, fremtidige eller tidligere hendelser
+
+
+22
+00:04:17,301 --> 00:04:21,219
+Du kan velge å vise bare en kategori
+
+
+23
+00:04:22,321 --> 00:04:25,970
+Velg rekkefølgen på listen
+
+
+24
+00:04:31,136 --> 00:04:35,662
+Velg temaet for hendelseslisten
+
+
+25
+00:04:36,788 --> 00:04:38,954
+Hvor mange tegn i den korte beskrivelsen!
+
+
+26
+00:04:40,088 --> 00:04:42,198
+Antall hendelser per side
+
+
+27
+00:04:43,167 --> 00:04:53,800
+Datoformat i hendelsesliste og detaljer
+
+
+28
+00:04:56,090 --> 00:04:59,672
+Du kan legge til en personlig separator for datoer med tall
+
+
+29
+00:05:00,000 --> 00:05:02,500
+Bredde på GoogleMap.
+(nyttig for noen maler for å velge en 99%)
+
+
+30
+00:05:03,000 --> 00:05:05,968
+Høyde på GoogleMap.
+(i piksler)
+
+
+31
+00:05:06,184 --> 00:05:09,838
+Lagre og lukk
+
+
+32
+00:05:11,851 --> 00:05:19,927
+Reload the page...
+
+
+33
+00:05:22,488 --> 00:05:27,000
+Utmerket! Info meldingen fjernet.
+
+
+34
+00:05:28,850 --> 00:05:32,064
+Klikk på elementet meny ...
+
+
+35
+00:05:33,734 --> 00:05:36,500
+Fortsatt en hvit side men nå må du legge til hendelser.
+
+
+36
+00:05:37,000 --> 00:05:40,100
+Opplæringen for å legge til hendelser i neste video, del 2!

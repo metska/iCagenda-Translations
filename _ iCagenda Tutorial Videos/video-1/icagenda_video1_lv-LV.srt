@@ -1,0 +1,155 @@
+1
+00:00:30,425 --> 00:00:38,631
+iCagenda 2.0 instalēšana
+
+2
+00:00:52,608 --> 00:00:58,013
+Instalētā versija
+
+3
+00:00:59,395 --> 00:01:07,475
+Kalendāra moduļa konfigurācija
+
+4
+00:01:10,518 --> 00:01:24,932
+iCcalendar moduļa pozīcijas izvēle
+
+5
+00:01:28,178 --> 00:01:35,184
+Moduļa publicēšana
+
+6
+00:01:36,999 --> 00:01:41,349
+Moduļa asignēšana lapām
+
+7
+00:01:49,362 --> 00:01:54,368
+Izvēlies 'Pa kreisi' lai parādītu uzlecošo logu pa kreisi no moduļa,
+'Pa labi' lai parādītu uzlecošo logu pa labi no moduļa,
+vai izvēlies 'Lapas vidū' lai centrētu uzlecošo logu lapas vidū pa horizontāli
+
+8
+00:01:55,113 --> 00:01:59,943
+tāpat izvēlies vai vēlies, lai tas parādās lapas augšā,
+apakšā vai vidū
+
+9
+00:02:01,029 --> 00:02:04,179
+Izvēlies kad uzlecošam logam jāparādās - kursors uz,
+vai klikšķinot uz kalendāra moduļa datuma
+
+10
+00:02:04,937 --> 00:02:14,135
+Uzlecošā loga datuma formāts
+
+11
+00:02:17,093 --> 00:02:24,843
+Tagad izvēlies šablonu (Tava kalendāra dizainu)
+Šeit iekļautas divas šablonu pakotnes, bet Tu vari radīt un instalēt citas.
+
+12
+00:02:27,257 --> 00:02:31,659
+Izvēlies nedēļas pirmo dienu,
+svētdienu vai pirmdienu
+
+13
+00:02:41,377 --> 00:02:51,750
+Mēs varam izvēlēties kuru kategoriju kalendārs atspoguļos.
+Šobrīd mēs neesam izveidojuši nevienu kategoriju.
+
+14
+00:02:56,206 --> 00:02:59,660
+Saglabāt un aizvērt moduļa opciju sadaļu
+
+15
+00:03:03,081 --> 00:03:10,015
+Paskaties uz savu kalendāra moduli!
+
+16
+00:03:11,981 --> 00:03:18,170
+Šeit kaut kas nav iestatīts!
+
+17
+00:03:20,952 --> 00:03:27,403
+Neuztraucies! Tev tikai jāizveido menu
+kas ved uz iCagenda.
+
+18
+00:03:30,159 --> 00:03:34,765
+Menu menedžmenta logā, spied uz 'Jauns'
+
+19
+00:03:37,370 --> 00:03:45,464
+Izvēlies iCagenda > pasākumu saraksts, menu veidu
+
+20
+00:03:54,270 --> 00:04:01,620
+Pievieno nosaukumu jaunajam menu
+
+21
+00:04:03,634 --> 00:04:14,567
+Izvēlies, kurus pasākumus parādīt,
+visus, nākamos vai pagājušos
+
+22
+00:04:17,301 --> 00:04:21,219
+Tu vari izvēlēties parādīt tikai vienu kategoriju
+
+23
+00:04:22,321 --> 00:04:25,970
+izvēlies šķirošanas kārtību
+
+24
+00:04:31,136 --> 00:04:35,662
+Izvēlies šablonu pasākumu sarakstam
+
+25
+00:04:36,788 --> 00:04:38,954
+cik burtu īsajā aprakstā!
+
+26
+00:04:40,088 --> 00:04:42,198
+pasākumu skaits lapā
+
+27
+00:04:43,167 --> 00:04:53,800
+datuma formāts pasākumu sarakstā, un detaļās
+
+28
+00:04:56,090 --> 00:04:59,672
+Tu vari pievienot savu atdalītāju datumos ar numuriem
+
+29
+00:05:00,000 --> 00:05:02,500
+GoogleMap platums.
+(dažos šablonos veiksmīgi der 99%)
+
+30
+00:05:03,000 --> 00:05:05,968
+GoogleMap augstums.
+(pikseļos)
+
+31
+00:05:06,184 --> 00:05:09,838
+Saglabāt un aizvērt
+
+32
+00:05:11,851 --> 00:05:19,927
+Atjaunot lapu...
+
+33
+00:05:22,488 --> 00:05:27,000
+Brīnišķīgi! Info piezīme noņemta.
+
+34
+00:05:28,850 --> 00:05:32,064
+Klikšķis uz menu...
+
+35
+00:05:33,734 --> 00:05:36,500
+Pagaidām balta lapa, bet Tev jāpievieno pasākumi.
+
+36
+00:05:37,000 --> 00:05:40,100
+Tutoriāls pasākumu pievienošanai nākamajā video, 2.daļā!
+

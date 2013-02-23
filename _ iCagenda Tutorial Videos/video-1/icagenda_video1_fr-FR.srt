@@ -1,0 +1,154 @@
+1
+00:00:30,425 --> 00:00:38,631
+Installation d'iCagenda v2
+
+2
+00:00:52,608 --> 00:00:58,013
+Version Installée
+
+3
+00:00:59,395 --> 00:01:07,475
+Configuration du module calendrier
+
+4
+00:01:10,518 --> 00:01:24,932
+Sélectionnez la position du module iC calendar
+
+5
+00:01:28,178 --> 00:01:35,184
+Publier le module
+
+6
+00:01:36,999 --> 00:01:41,349
+Assignation du module aux pages...
+
+7
+00:01:49,362 --> 00:01:54,368
+Sélectionnez 'Gauche' pour ouvrir l'info-bulle à la gauche du module,
+'Droite' pour ouvrir l'info-bulle à la droite du module,
+ou sélectionnez 'Milieu de la page' pour centrer horizontalement l'info-bulle au milieu de votre page.
+
+8
+00:01:55,113 --> 00:01:59,943
+Vous pouvez aussi placer l'info-bulle au-dessus, ou au desous du calendrier,
+si vous avez sélectionné 'Milieu de la page'
+
+9
+00:02:01,029 --> 00:02:04,179
+Sélectionnez si l'info-bulle doit s'ouvrir au passage de la souris,
+ou au clic sur une date du calendrier
+
+10
+00:02:04,937 --> 00:02:14,135
+Format de la date dans l'info-bulle
+
+11
+00:02:17,093 --> 00:02:24,843
+Maintenant, sélectionnez le thème du calendrier
+Il y a 2 Thèmes inclus, mais il est possible d'en créer et/ou installer d'autres.
+
+12
+00:02:27,257 --> 00:02:31,659
+Sélection du premier jour de la semaine,
+Lundi ou Dimanche
+
+13
+00:02:41,377 --> 00:02:51,750
+Affichez uniquement les évènements d'une catégorie, ou toutes.
+Pour l'instant, aucune catégorie n'a été créée.
+
+14
+00:02:56,206 --> 00:02:59,660
+Enregistrer et fermer
+
+15
+00:03:03,081 --> 00:03:10,015
+Jeter un oeil au calendrier!
+
+16
+00:03:11,981 --> 00:03:18,170
+Quelque chose n'est pas encore paramétré!
+
+17
+00:03:20,952 --> 00:03:27,403
+Pas de panique! Vous devez simplement créer un nouveau lien de menu,
+pour lier le calendrier au composant iCagenda.
+
+18
+00:03:30,159 --> 00:03:34,765
+Dans le gestionnaire de menu, cliquez sur 'nouveau'
+
+19
+00:03:37,370 --> 00:03:45,464
+Sélectionnez iCagenda > liste de évènements, comme type de lien de menu
+
+20
+00:03:54,270 --> 00:04:01,620
+Ajoutez un titre à ce nouveau lien de menu
+
+21
+00:04:03,634 --> 00:04:14,567
+Définir les événements que vous souhaitez afficher,
+tous les événements, événements futurs ou passés
+
+22
+00:04:17,301 --> 00:04:21,219
+Vous pouvez choisir d'afficher une seule catégorie
+
+23
+00:04:22,321 --> 00:04:25,970
+Sélectionnez l'ordre de la liste
+
+24
+00:04:31,136 --> 00:04:35,662
+Choisissez le thème de votre liste des événements
+
+25
+00:04:36,788 --> 00:04:38,954
+Nombre de caractères dans la description courte!
+
+26
+00:04:40,088 --> 00:04:42,198
+Nombre d'événements par page
+
+27
+00:04:43,167 --> 00:04:53,800
+Format de date dans la liste des événements et des détails
+
+28
+00:04:56,090 --> 00:04:59,672
+Vous pouvez ajouter un séparateur personnalisé pour les dates
+
+29
+00:05:00,000 --> 00:05:02,500
+Largeur de Google Map.
+(utile pour certains templates d'indiquer 99%)
+
+30
+00:05:03,000 --> 00:05:05,968
+Hauteur de Google Map.
+(en pixels)
+
+31
+00:05:06,184 --> 00:05:09,838
+Enregistrer et fermer
+
+32
+00:05:11,851 --> 00:05:19,927
+Actualisez la page...
+
+33
+00:05:22,488 --> 00:05:27,000
+Excellent! Message d'information enlevé.
+
+34
+00:05:28,850 --> 00:05:32,064
+Cliquez sur le menu...
+
+35
+00:05:33,734 --> 00:05:36,500
+Encore une page blanche, mais vous allez maintenant pouvoir ajouter des événements.
+
+36
+00:05:37,000 --> 00:05:40,100
+Tutoriel pour ajouter des événements dans la vidéo suivante!
